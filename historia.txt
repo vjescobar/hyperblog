@@ -1,4 +1,6 @@
-Esto es un título
+Victor Escobar
+
+Aprendiendo Git
 
 Esto es un título centrado
 
